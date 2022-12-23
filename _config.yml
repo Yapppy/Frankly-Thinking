@@ -1,7 +1,7 @@
 # Site settings
 title:          Frankly Thinking
 description:    "A Digital Garden for Me to Cultivate"
-baseurl:        "/tale"
+baseurl:        "/frankly-thinking"
 url:            "https://yapppy.github.io"
 
 # Google Analytics
