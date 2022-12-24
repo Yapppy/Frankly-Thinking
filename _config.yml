@@ -1,7 +1,7 @@
 # Site settings
 title:          Frankly-Thinking
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/Frankly-Thinking"
+baseurl:        "/frankly_thinking"
 url:            "http://yapppy.github.io"
 
 # Google Analytics
