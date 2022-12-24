@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
+title:          Frankly-Thinking
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        "/Frankly-Thinking"
+url:            "http://yapppy.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Yapppy
+  url:          http://yapppy.github.io
+  email:        sinzyyin@gmail.com
 
 # Build settings
 markdown:       kramdown
