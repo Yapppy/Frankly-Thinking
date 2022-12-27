@@ -11,10 +11,10 @@ $shadow-color: rgba(0, 0, 0, .2) !default;
 $code-color: #bf616a !default;
 
 // Fonts
-$serif-primary: 'Times New Roman', serif !default;
+$serif-primary: 'Source Sans Pro', serif !default;
 $serif-secondary: 'Georgia', serif !default;
-$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;
-$monospaced: Menlo, Monaco, monospace !default;
+$sans-serif: Cambria, Arial, sans-serif !default;
+$monospaced: 'Courier New', monospace !default;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;

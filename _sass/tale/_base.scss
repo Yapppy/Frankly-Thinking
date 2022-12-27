@@ -16,11 +16,12 @@ html {
   overflow-y: scroll;
 
   @media (min-width: 600px) {
-    font-size: 16px;
+    font-size: 12px;
   }
 }
 
 body {
+  font-size: 18px;
   -webkit-text-size-adjust: 100%;
 }
 
