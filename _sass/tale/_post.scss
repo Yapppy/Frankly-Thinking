@@ -18,7 +18,7 @@
   &-title {
     color: $default-shade;
     font-family: $sans-serif;
-    font-size: 4rem;
+    font-size: 40px;
     margin: 1rem 0;
     text-align: center;
   }
@@ -90,7 +90,7 @@
     margin: 0;
   }
   summary {
-    font-size: 20px;
+    font-size: 18px;
     font-style: oblique;
     opacity:0.8;
     margin: 25px;
@@ -119,9 +119,6 @@
     font-size:18px;
     color:#8C8273;
 
-    .q1 {
-      font-size: 14px;
-    }
 
    }
   }

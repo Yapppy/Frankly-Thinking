@@ -110,11 +110,12 @@ Principles are the **fundamental truth** that things are built on. There are not
 - Principles are not values. Principles are the territory, values are the map 
 - Principles are guidelines that are unarguable.
 
-Why are principles important to our paradigm?
+>Why are principles important to our paradigm?
+
 The more closely our paradigm are aligned with the principles/natural laws, the more accurate and functional our paradigm will be. Correct maps will impact our effectiveness far more than any amount of effort to change our attitudes and behaviours.
 
 #### Principle of Growth & Change
-There are sequential stages of growth and change that cannot be skipped. 
+There are *sequential stages of growth and change that cannot be skipped*. 
 Personality ethic is the opposite; it appeals on the sense of a quick and easy way to skip the painful process of change, to achieve results that are often short and illusionary.
 
 It's easier to relate and materialized the principle of growth and change on physical manifestation, like a baby to a crawling toddler, whereas emotional areas like human relationships and personal development are hard and difficult.
@@ -124,8 +125,41 @@ Personality ethic, on the other hand, thrives, due to people who do not comprehe
 <br>
 ### Inside-Out
 
-<div class="q1"> The significant problem we face cannot be solve at the same level of thinking when we were at when we created them. </div>
+The significant problem we face cannot be solve at the same level of thinking when we were at when we created them. 
 
 A new and deeper level of thinking is required to:
 - solve problem by understanding the fundamental of the deep rooted cause
 - recognize & develop principles deep inside the conscious, to develop habits
+
+
+<br>
+
+---
+## What are Habits?
+---
+<br>
+
+<img src="https://leadershipresources.my/wp-content/uploads/2020/01/7HOHEP-graphic-1.jpg" alt="Maturity Continuum" style="float:right;width:320px;height:320px;">
+### The Maturity Continuum
+
+The seven habits moves the users on a maturity continuum from dependence, independence, to interdependence. 
+- ***Dependence***: *you* take care of me, you help me think
+- ***Independence***: *I* can do it, I can think for myself
+- ***Interdependence***: 
+    - *we* can do it, we can cooperate, we can combine our talents and abilities to create something greater together
+
+
+
+### P/PC Balanced = True Effectiveness
+P = Production of desired Result -- Golden Egg
+PC = Production Capability (ability/asset used to produce) -- Goose
+
+If focused on getting the maximized production of golden egg, the goose will be overused and broken down; 
+
+If focused on caring for the welfare of the goose, the production of the golden egg is under production causing the owner to unable to feed for himself;
+
+In conclusion, true effectiveness comes when the P (Production) & PC (Production Capability) are balanced. 
+
+
+
+
