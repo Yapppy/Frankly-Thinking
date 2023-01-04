@@ -43,6 +43,24 @@
     word-spacing: 2.5px;
   }
 
+  h2 {
+    color: $default-shade;
+    font-family: $sans-serif;
+    line-height: normal;
+    text-align: center;
+    font-size: 27px;
+  }
+  h3 {
+    font-size: 22px;
+    font-variant: small-caps;
+  }
+  h4 {
+    font-size: 18px;
+    opacity: 95%;
+    padding-top: 15px;
+    line-height: 0px;
+  }
+
   a:hover {
     text-decoration: underline;
   }
@@ -89,8 +107,6 @@
     
    }
 
-  
-
    .dropcaps {
     float:left;
     font-size:40px;
@@ -98,6 +114,17 @@
     color:#8C8273;
     font-style: italic;
    }
+
+   .question {
+    font-size:18px;
+    color:#8C8273;
+
+    .q1 {
+      font-size: 14px;
+    }
+
+   }
   }
+
 
 
