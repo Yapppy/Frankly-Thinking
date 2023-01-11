@@ -7,7 +7,7 @@ tags: Book
 
 
 
-<summary> This is a documentation on my understanding of the foundation and ideas behind《7 Habits of Highly Effective People》. On how character ethics and personality ethics fit into the principle-centered paradigm that rules over our behavior and attitude that leads to personal success in terms of habit building and human relationships.  </summary>
+<summary> How character ethics and personality ethics fit into our principle-centered paradigm, that rules over our behavior and attitude, in which an understanding of it would lead to our personal success.</summary>
 <!--more-->
 
 <br>
