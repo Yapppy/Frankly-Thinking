@@ -5,8 +5,6 @@ excerpt_separator: <!--more-->
 tags: Book
 ---
 
-
-
 <summary> How character ethics and personality ethics fit into our principle-centered paradigm, that rules over our behavior and attitude, in which an understanding of it would lead to our personal success.</summary>
 <!--more-->
 

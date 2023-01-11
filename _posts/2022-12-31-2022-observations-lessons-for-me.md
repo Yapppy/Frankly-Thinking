@@ -6,7 +6,7 @@ tags: Self-Improvement
 ---
 
 
-<summary> 2022 is a big year for me, because I am finally able to take back control of my life. </summary> <!--more-->
+2022 is a big year for me, because I am finally able to take back control of my life. <!--more-->
 
 University life is something my parents never had, and as the first born of the family, I will be the first university graduate in the family book. 
 
