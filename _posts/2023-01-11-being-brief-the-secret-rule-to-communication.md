@@ -4,6 +4,8 @@ title: "Being Brief - The Secret Rule To Communication"
 excerpt_separator: <!--more-->
 tags: Communication
 ---
+
+<summary> By talking less, you can achieve more without wasting your breath. </summary>
 <!--more-->
 
 
