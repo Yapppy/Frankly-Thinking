@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 tags: Communication
 ---
 
-<summary> By talking less, you can achieve more without wasting your breath. </summary>
+<summary> By talking less, you can achieve more. In this case, you plan your communications and avoid wasting resources like time and effort.</summary>
 <!--more-->
 
 
@@ -64,4 +64,4 @@ Now that we have understand the NEED to be brief, we also need to learn HOW & WH
 All of the above can be applied into different scenarios not just presentations alone. There is more to being brief than what I have listed. 
 
 
-I strongly recommend the book Brief, by Joseph McCormack, where I have gotten all the points, to understand being brief in different context, such as daily messages, meetings and briefings, and strategic communications. Additionally, more details on how to outline and mind map for different context are also given.  
+I strongly recommend the book Brief, by Joseph McCormack, if you want to know how to apply the "being brief" strategy in work situations. The author writes about being brief in different context, such as daily messages, meetings and briefings, and strategic communications. Additionally, more details on how to outline and mind map for different context are also given.  
